@@ -40,32 +40,8 @@ This project allows users to browse books, view free books, sign up, log in, and
 
 ## 📂 Project Structure
 
-BookStore/
-│── server.js
-│── package.json
-│── controller/
-│ ├── book.controller.js
-│ └── user.controller.js
-│── model/
-│ ├── book.model.js
-│ └── user.model.js
-│── route/
-│ ├── book.route.js
-│ └── user.route.js
-│
-└── frontend/
-├── index.html
-├── package.json
-├── vite.config.js
-├── tailwind.config.js
-├── src/
-│ ├── App.jsx
-│ ├── main.jsx
-│ ├── components/
-│ ├── home/
-│ ├── courses/
-│ └── context/
-└── dist/
+<img width="353" height="819" alt="image" src="https://github.com/user-attachments/assets/09e380f0-f724-4ec0-9126-749c36dbf61d" />
+
 
 
 ---
